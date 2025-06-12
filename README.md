@@ -36,7 +36,7 @@ Output: They sometimes need a large database  ...
 - Loss and accuracy plotted over 30 epochs.
 - Demonstrates efficient training and pruning.
 
-## 👥 Contributors
+##  Contributors
 - Athul Krishna K L
 - Govind Kumar
 - Akshay P K
